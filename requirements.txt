@@ -1,3 +1,9 @@
-rich
 requests
+rich
 bs4
+futures
+mechanize
+pyfiglet
+pycryptodome
+colorama
+stdiomask
